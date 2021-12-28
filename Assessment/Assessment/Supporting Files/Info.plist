@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>IBMPlexSans-Bold.otf</string>
+		<string>IBMPlexSans-ExtraLight.otf</string>
+		<string>IBMPlexSans-Light.otf</string>
+		<string>IBMPlexSans-Medium.otf</string>
+		<string>IBMPlexSans-Regular.otf</string>
+		<string>IBMPlexSans-SemiBold.otf</string>
+		<string>IBMPlexSans-Thin.otf</string>
+	</array>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
